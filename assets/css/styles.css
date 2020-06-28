@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(241, 240, 249)
+}
+.margin-20{
+    margin: 20px 0
+}
+.my-background {
+    background-color: #000;
+}
+.login-form{
+    padding: 50px;
+    margin-top: 10%;
+    border: 1px solid #ccc;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
+.login-form > div{
+    margin-bottom: 30px
+}
+.bg_black{
+    background-color: #000;
+}
+.fixed_header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+.main_body{
+    margin-top: 50px;
+}
+.margin_50{
+    margin-top: 50px
+}
+.margin-5{
+    margin: 5px 0;
+}
+.invisible_button{
+    border: none;
+    background: none;
+}   
+.display_none{
+    display: none;
+}
+.padding_top{
+    padding-top: 300px
+}
